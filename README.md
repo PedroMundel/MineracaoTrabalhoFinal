@@ -1,17 +1,13 @@
 # MineracaoTrabalhoFinal
 Atividade de Mineração de Dados: Patologia cardíaca em crianças e jovens. O objetivo principal deste trabalho é aplicar o processo de KDD para predição e extração de conhecimento de patologias cardíacas em crianças e jovens. 
 
-O trabalho foi realizado em grupo.
+**O trabalho foi realizado em grupo.**
 
-###Integrantes:
+**Integrantes:**
 Fernando de Assis Mota
 Gabriel Macedo Bontempo
 Pedro Mundel Biffi
 Pedro Oliveira Coelho
-
-Os dados a serem utilizados neste trabalho foram coletados no Real Hospital Português (RHP),
-anonimizados com a aprovação do Comitê de Ética do RHP. O Comitê de Ética da Universidade do
-Porto, Portugal, também aprovou o uso desses dados para estudos acadêmicos.
 
 As inscrições consistem em crianças e jovens entre 0 e 19 anos, com ou sem patologia cardíaca
 (variável NORMAL X ANORMAL). A tabela abaixo fornece uma breve descrição das variáveis.
@@ -39,4 +35,9 @@ As inscrições consistem em crianças e jovens entre 0 e 19 anos, com ou sem pa
 | **SEXO**                | Sexo do paciente                                      |
 | **MOTIVO1**             | Primeiro motivo para ser encaminhado para a clínica de cardiologia |
 | **MOTIVO2**             | Segundo motivo para ser encaminhado para a clínica de cardiologia |
+
+***NOTA***
+*Os dados a serem utilizados neste trabalho foram coletados no Real Hospital Português (RHP),
+anonimizados com a aprovação do Comitê de Ética do RHP. O Comitê de Ética da Universidade do
+Porto, Portugal, também aprovou o uso desses dados para estudos acadêmicos.*
 
