@@ -4,10 +4,10 @@ Atividade de Mineração de Dados: Patologia cardíaca em crianças e jovens. O 
 **O trabalho foi realizado em grupo.**
 
 **Integrantes:**
-Fernando de Assis Mota
-Gabriel Macedo Bontempo
-Pedro Mundel Biffi
-Pedro Oliveira Coelho
+Fernando de Assis Mota, 
+Gabriel Macedo Bontempo, 
+Pedro Mundel Biffi, 
+Pedro Oliveira Coelho.
 
 As inscrições consistem em crianças e jovens entre 0 e 19 anos, com ou sem patologia cardíaca
 (variável NORMAL X ANORMAL). A tabela abaixo fornece uma breve descrição das variáveis.
