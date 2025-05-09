@@ -41,3 +41,6 @@ As inscrições consistem em crianças e jovens entre 0 e 19 anos, com ou sem pa
 anonimizados com a aprovação do Comitê de Ética do RHP. O Comitê de Ética da Universidade do
 Porto, Portugal, também aprovou o uso desses dados para estudos acadêmicos.*
 
+## License:
+
+This project is an academic assignment from the Universidade Federal de Goiás (UFG). This code and it's content are restricted for educational purposes, unless otherwise specified.
